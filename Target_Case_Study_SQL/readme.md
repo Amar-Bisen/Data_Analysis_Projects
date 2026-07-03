@@ -219,3 +219,5 @@ Target-Brazil-Ecommerce-SQL-Case-Study/
 ## Project Outcome
 
 The analysis identified growth opportunities, operational inefficiencies, logistics bottlenecks, and customer payment behaviors across Brazil. The findings can help Target improve market penetration, optimize delivery operations, reduce logistics costs, and enhance customer experience through data-driven business strategies.
+---
+#### Author : AMAR BISEN
